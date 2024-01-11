@@ -1,0 +1,11 @@
+{
+  "name": "intro-npm-axios-och-vite",
+  "version": "1.0.0",
+  "description": "Codealong Kör filen genom att skriva node <filens namn> i terminalen",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
