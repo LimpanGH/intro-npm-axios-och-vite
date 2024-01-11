@@ -1,3 +1,6 @@
+
+// Fetcha med axios i browsern -------------------------------
+
 import axios from 'axios' // Importerar
 const url = "https://jsonplaceholder.typicode.com/users"
 async function getUser(url) {
